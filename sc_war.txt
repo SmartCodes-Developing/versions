@@ -1,1 +1,1 @@
-{"version":"1.0.0", "changes":"This is the first version of this script"}
+{"version":"1.0.0", "changes":"Added version checker"}
