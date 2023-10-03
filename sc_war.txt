@@ -1,1 +1,1 @@
-{"version":"1.0.1", "changes":"Bug fixes"}
+{"version":"1.0.2", "changes":"Added manual start button and the buttons for STAFF members are now visible only to them"}
