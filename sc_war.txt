@@ -1,1 +1,1 @@
-{"version":"1.0.3", "changes":"Added compatibility for ox_inventory"}
+{"version":"2.0.0", "changes":"Added compatibility for ESX and the possibility to use custom framework"}
